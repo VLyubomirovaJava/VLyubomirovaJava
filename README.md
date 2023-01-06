@@ -6,7 +6,7 @@
 ### <div align="center">I'm Vassi, a Java enthusiast👨‍💻 currently studying at Software University, Bulgaria  🚀</div>  
   
 
-- 🌱 I’m currently learning Java Fundamentals  
+- 🌱 I’m currently learning Java   
   
 
 - ⚡ Here I'll be posting the exercises and projects I've completed during my studies at SoftUni.  
