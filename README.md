@@ -40,7 +40,7 @@
 <a href="https://github.com/VLyubomirovaJava" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/linkedin.com/in/vasilina-lyubomirova-training-lead" target="_blank">
+<a href="https://linkedin.com/in/vasilina-lyubomirova-training-lead" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -73,6 +73,14 @@
 
 
 <br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ----
 
