@@ -2,39 +2,19 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+## Hi, I am Vasi, currently a Software Engineering Student at SoftUni, Bulgaria! 
+</br>
 
-### <div align="center">I'm Vassi, a Java enthusiast👨‍💻 currently studying at Software University, Bulgaria  🚀</div>  
-  
-
-- 🌱 I’m currently learning Java   
-  
-
-- ⚡ Here I'll be posting the exercises and projects I've completed during my studies at SoftUni.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+ <div>
+  <a href="https://github.com/VlyubomirovaJava">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VlyubomirovaJava&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VlyubomirovaJava&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
+ 
+ ## Skills
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
+  
+</br>
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/VLyubomirovaJava" target="_blank">
@@ -44,6 +24,14 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+ </br>
+</br>
+ 
+  ![Snake animation](https://github.com/VLyubomirovaJava/VLyubomirovaJava/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
   
 
 <br/>  
@@ -54,13 +42,4 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  ![Snake animation](https://github.com/eagrundy/LyubomirovaJava/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
