@@ -69,11 +69,4 @@
 </div>  
   
 
-<br/>  
-
-
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v1.1.4
-
-----
 
